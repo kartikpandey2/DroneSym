@@ -55,7 +55,7 @@
     "jsonwebtoken": "^7.4.1",
     "mongoose": "^4.11.3",
     "morgan": "^1.8.1",
-    "nodemon": "^1.11.0",
+    "nodemon": "^2.0.3",
     "passport": "^0.3.2",
     "passport-jwt": "^2.2.1",
     "request": "^2.81.0",
